@@ -16,5 +16,5 @@ h2 {
 }
 @font-face {
 font-family: customFont;
-src: customfont.tff;
+src: url(customfont.tff);
 }
