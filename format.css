@@ -4,7 +4,7 @@ body {
 p {
   color: white;
   font-size: 12pt;
-  font-family: CustomFont;
+  font-family: customFont;
 }
 h1 {
   color: orange;
@@ -15,6 +15,6 @@ h2 {
   font-size: 32pt;
 }
 @font-face {
-font-family: "CustomFont";
-src: url("https://zachariahbenedictedmonds15.github.io/sp2023test-zach/css/fonts/customfont.tff") format("tff");
+font-family: customFont;
+src: customfont.tff;
 }
