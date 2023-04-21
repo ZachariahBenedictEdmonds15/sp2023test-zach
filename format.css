@@ -3,10 +3,13 @@ body {
 }
 p {
   color: white;
+  font-size: 12pt;
 }
 h1 {
   color: orange;
+  font-size: 42pt;
 }
 h2 {
   color: green;
+  font-size: 32pt;
 }
