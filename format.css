@@ -6,6 +6,9 @@ p {
   font-size: 12pt;
   font-family: customFont;
 }
+cus {
+  font-family: customFont;
+}
 h1 {
   color: orange;
   font-size: 42pt;
