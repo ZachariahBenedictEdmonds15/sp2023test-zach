@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(225,198,153);
+}
+p {
+  color: brown;
+  font-size: 13pt;
+}
+h1 {
+  color: black;
+  font-size: 42pt;
+}
+h2 {
+  color: orange;
+  font-size: 32pt;
+}
