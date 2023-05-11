@@ -3,21 +3,20 @@ font-family: customFont;
 src: url(morganChalk.ttf);
 }
 body {
-  background-color: grey;
+  background-color: orange;
 }
 p {
   color: white;
   font-size: 12pt;
-  font-family: customFont;
 }
 cus {
   font-family: customFont;
 }
 h1 {
-  color: orange;
+  color: brown;
   font-size: 42pt;
 }
 h2 {
-  color: green;
+  color: yellow;
   font-size: 32pt;
 }
