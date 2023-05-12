@@ -9,7 +9,7 @@ p {
   color: white;
   font-size: 12pt;
 }
-p.black {
+p#black {
   color: black;
   font-size: 12pt;
 }
