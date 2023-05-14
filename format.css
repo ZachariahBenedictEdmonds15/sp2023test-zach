@@ -2,6 +2,13 @@
 font-family: customFont;
 src: url(morganChalk.ttf);
 }
+section {
+  width: 250px;
+  background-color: yellow;
+  padding: 30px;
+  border: 5px solid silver;
+  margin: 50px;
+}
 body {
   background-color: orange;
 }
