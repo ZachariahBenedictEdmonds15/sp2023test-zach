@@ -4,6 +4,7 @@ src: url(morganChalk.ttf);
 }
 section {
   width: 40%;
+  length: 100px;
   background-color: yellow;
   padding: 100px;
   border: 25px solid silver;
