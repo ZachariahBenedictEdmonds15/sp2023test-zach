@@ -1,14 +1,15 @@
 @font-face {
-font-family: customFont;
-src: url(morganChalk.ttf);
+  font-family: customFont;
+  src: url(morganChalk.ttf);
 }
 section {
-  width: 40%;
-  length: 100px;
-  background-color: yellow;
-  padding: 100px;
-  border: 25px solid silver;
-  margin: 100px;
+  width: 500px;
+  background-color: rgb(200,173,125);
+  padding: 25px;
+  border: 5px solid black;
+  margin: 50px;
+  length: 300px;
+  overflow: scroll;
 }
 body {
   background-color: orange;
