@@ -3,12 +3,12 @@
   src: url(morganChalk.ttf);
 }
 section {
-  width: 500px;
+  width: 260px;
   background-color: rgb(200,173,125);
   padding: 25px;
   border: 5px solid black;
   margin: 50px;
-  length: 300px;
+  length: 270px;
   overflow: scroll;
 }
 body {
